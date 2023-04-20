@@ -23,21 +23,3 @@ void print_array(int *a, int n)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9-strcpy.c
-
